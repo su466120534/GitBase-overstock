@@ -4,7 +4,9 @@ description: >-
   This guide will walk you through the process of viewing, editing, and creating
   new articles using the admin panel.
 date: '2024-08-11T13:16:44.231Z'
+lastModified: '2024-08-17T02:56:06.290Z'
 ---
+![AI generated image](https://storage.aipornsitesrank.com/tools/2024/7/31/tap4-ai-1722412529.png)
 # Managing Articles in GitBase Admin Panel
 
 GitBase provides a powerful and user-friendly interface for managing your website's articles. This guide will walk you through the process of viewing, editing, and creating new articles using the admin panel.
